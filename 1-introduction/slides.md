@@ -11,7 +11,8 @@
 * Loki/Grafana > journaux (systèmes...)
 
 <br>
-Site : https://github.com/grafana/loki
+Dépôt : https://github.com/grafana/loki
+Site : https://docs.loki.network/
 Doc : https://github.com/grafana/loki/tree/master/docs
 
 <br>
