@@ -6,9 +6,13 @@
 
 
 <br>
+
+
 * promtail = agent qui envoi les logs vers loki
 
 <br>
+
+
 * installation
 
 Sources : https://github.com/grafana/loki/releases
@@ -27,6 +31,8 @@ sudo vim /etc/promtail/promtail.yml
 # LOKI : Installation Promtail
 
 <br>
+
+
 * configuration
 
 ```
@@ -64,6 +70,8 @@ scrape_configs:
 # LOKI : Installation Promtail
 
 <br>
+
+
 * cration du service systemd
 
 ```
@@ -79,6 +87,8 @@ WantedBy=multi-user.target
 
 
 <br>
+
+
 * installation grafana
 
 ```

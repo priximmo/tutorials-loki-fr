@@ -6,9 +6,13 @@
 
 
 <br>
+
+
 * logcli : requêter par la ligne de commande uns erveur loki
 
 <br>
+
+
 * release : https://github.com/grafana/loki/releases
 
 ```
@@ -19,6 +23,8 @@ sudo chmod +x /usr/local/bin/logcli
 ```
 
 <br>
+
+
 * localisation du serveur loki
 
 ```
@@ -28,6 +34,8 @@ ou
 ```
 
 <br>
+
+
 * lister les labels
 
 ```
@@ -36,6 +44,8 @@ logcli labels host
 ```
 
 <br>
+
+
 * afficher les logs avec filtre
 
 ```
@@ -43,6 +53,8 @@ logcli query '{host="srv1",job="nginx"}'
 ```
 
 <br>
+
+
 * mode tail
 
 ```

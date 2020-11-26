@@ -6,13 +6,19 @@
 
 
 <br>
+
+
 * loki = base de données centralisée
 
 <br>
+
+
 * loki releases :
 https://github.com/grafana/loki/releases
 
 <br>
+
+
 
 
 ```

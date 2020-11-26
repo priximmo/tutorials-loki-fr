@@ -7,6 +7,8 @@
 
 <br>
 
+
+
 ```
 count_over_time({job="nginx"}[1m])
 ```
